@@ -7,22 +7,22 @@ youtubeの「R言語の基礎」シリーズで解説しているコードを載
 
 # 2 R言語の基礎の動画
 
-「R言語の基礎」再生リスト
+「R言語の基礎」再生リスト<br>
 https://www.youtube.com/watch?v=LCsrRcQ9rNg&list=PL7BUpEjz_maSLWb2QAfx-DHgw2uE7j_Wh
 
-第1回 RとRstudioの基本
+第1回 RとRstudioの基本<br>
 https://youtu.be/LCsrRcQ9rNg
 
-第2回 データの作成と保存
+第2回 データの作成と保存<br>
 https://youtu.be/yl36NxkG_Oc
 
-第3回 データの整理（dplyr）
+第3回 データの整理（dplyr）<br>
 https://youtu.be/14xkuG9CzBo
 
-第4回 データの可視化（ggplot）
+第4回 データの可視化（ggplot）<br>
 https://youtu.be/HVUH1eH4GL4
 
-第5回 データの結合（join系とbind系）
+第5回 データの結合（join系とbind系）<br>
 https://youtu.be/jNrtqKMVxXg
 
 <br>
